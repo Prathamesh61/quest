@@ -1,4 +1,4 @@
-const { UserModel } = require("../models/User.model");
+// const { UserModel } = require("../models/User.model");
 require("dotenv").config()
 var Instagram = require('passport-instagram');
 const InstagramStrategy = Instagram.Strategy;
